@@ -1,0 +1,5 @@
+com/example/steps/LoginSteps.class
+com/example/tests/SauceLabsTest.class
+com/example/tests/SauceLabsTestBase.class
+com/example/tests/TestRunner.class
+com/example/tests/ApiTest.class
